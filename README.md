@@ -1,1 +1,1 @@
-This is a deterministic 1024x1024-pixel Pillow newspaper-front-page coding-bounty entry summarizing the world news of Friday, November 20, 2026.
+This coding-bounty entry ships a 1024x1024-pixel newspaper front-page PNG summarizing the world news of Friday, November 20, 2026. The standard-library-only main.py copies the repository entry.png unchanged to MAKEFUN_OUTPUT_DIR, or /output when that variable is unset.
